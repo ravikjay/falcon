@@ -1,12 +1,11 @@
-<p align="center">
-    <img src="https://rawgit.com/ravikjay/falcon/master/resources/logo.png"
-         height="100">
-</p>
+# Millenium Falcon
 
 <p align="center">
     <img src="https://rawgit.com/ravikjay/falcon/master/resources/falcon.gif"
          height="200">
 </p>
+
+An animation of the Millenium Falcon taking off from the Death Star and warping to light speed! 
 
 Uses WebGL and JavaScript to completely build and animate 3D clip of an object dynamically moving at a real-time frame rate.
 All coloring and texturing implemented robustly to reflect light dynamically.
