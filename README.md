@@ -1,7 +1,7 @@
 # falcon
 
 <p align="center">
-    <img src="https://cdn.rawgit.com/ravikjay/falcon/master/resources/falcon.gif"
+    <img src="https://rawgit.com/ravikjay/falcon/master/resources/falcon.gif"
          height="150">
 </p>
 
