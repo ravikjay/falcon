@@ -1,7 +1,7 @@
 # falcon
 
 <p align="center">
-    <img src="https://giphy.com/gifs/12yEqhuv1z35xS"
+    <img src="https://cdn.rawgit.com/ravikjay/falcon/master/resources/falcon.gif"
          height="70">
 </p>
 
