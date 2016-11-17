@@ -5,6 +5,7 @@ index.html - The web page document containing the canvas (drawing surface), that
 <!DOCTYPE html>
 <html>
 <head>
+<meta charset="utf-8"/>
 <script id="vertex-shader" type="x-shader/x-vertex">
 // *******************************************************
 // The following string is loaded by our javascript and then used as the Vertex Shader program.  Our javascript sends this code to the graphics card at runtime, where on each run it gets 
@@ -125,18 +126,19 @@ Javascript "include" files.  Any code in them gets executed as part of the page 
 //-->
 
 
-<script type="text/javascript" src="../Common/initShaders.js"></script>
-<script type="text/javascript" src="../Common/underscore.js"></script>
-<script type="text/javascript" src="../Common/shortcut.js"></script>
-<script type="text/javascript" src="../Common/MV.js"></script>
-<script type="text/javascript" src="../Common/shape.js"></script>
-<script type="text/javascript" src="../Common/webgl-obj-loader.js"></script>
-<script type="text/javascript" src="../Common/GL_Context.js"></script>
-<script type="text/javascript" src="../resources/shapes.js"></script>
-<script type="text/javascript" src="../resources/animation.js"></script>
+<script type="text/javascript" src="Common/initShaders.js"></script>
+<script type="text/javascript" src="Common/underscore.js"></script>
+<script type="text/javascript" src="Common/shortcut.js"></script>
+<script type="text/javascript" src="Common/MV.js"></script>
+<script type="text/javascript" src="Common/shape.js"></script>
+<script type="text/javascript" src="Common/webgl-obj-loader.js"></script>
+<script type="text/javascript" src="Common/GL_Context.js"></script>
+<script type="text/javascript" src="shapes.js"></script>
+<script type="text/javascript" src="animation.js"></script>
 
 </head><body>
 <canvas id="gl-canvas" width="940" height="560"></canvas><p>
+<h1></h1>
 Controlling this Graphics Canvas: 
 <ul><li>Animation is paused when this program starts, so first you should press ALT+a to play or pause animation. <li>
 		Fly around the scene to adjust your vantage point using the keys w a s d to move in the plane that's along the ground, 

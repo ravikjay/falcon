@@ -17,6 +17,11 @@ function CURRENT_BASIS_IS_WORTH_SHOWING(self, model_transform) { self.m_axis.dra
 
 var texture_filenames_to_load = [ "stars.png", "text.png", "logo.png", "earth.gif", "fire.jpg", "space2.jpg", "asteroid3.jpg", "spacehull.jpg", "planet.jpg", "rings.jpg", "star.jpg", "bluestar.jpg", "crystal.jpg" ];
 
+for (var i = 0; i < texture_filenames_to_load.length; i++)
+{
+	//texture_filenames_to_load[i] = "resources/"+texture_filenames_to_load[i];
+}
+
 // *******************************************************	
 // When the web page's window loads it creates an "Animation" object.  It registers itself as a displayable object to our other class "GL_Context" -- which OpenGL is told to call upon every time a
 // draw / keyboard / mouse event happens.
@@ -706,7 +711,7 @@ Animation.prototype.drawBegin = function( stack, model_transform, black, greyPla
 	return model_transform;
 }
 
-var sound = new Audio("starwars.mp3");
+var sound = new Audio("resources/starwars.mp3");
 
 // *******************************************************	
 // display(): called once per frame, whenever OpenGL decides it's time to redraw.
