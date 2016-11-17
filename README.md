@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="https://rawgit.com/ravikjay/falcon/master/resources/falcon.gif"
-         height="150">
+         height="200">
 </p>
 
 Uses WebGL and JavaScript to completely build and animate 3D clip of an object dynamically moving at a real-time frame rate.
