@@ -1,4 +1,7 @@
-# falcon
+<p align="center">
+    <img src="https://rawgit.com/ravikjay/falcon/master/resources/logo.png"
+         height="100">
+</p>
 
 <p align="center">
     <img src="https://rawgit.com/ravikjay/falcon/master/resources/falcon.gif"
