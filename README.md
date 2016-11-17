@@ -1,6 +1,9 @@
 # falcon
 
-![alt-text](https://giphy.com/gifs/12yEqhuv1z35xS)
+<p align="center">
+    <img src="https://giphy.com/gifs/12yEqhuv1z35xS"
+         height="70">
+</p>
 
 Uses WebGL and JavaScript to completely build and animate 3D clip of an object dynamically moving at a real-time frame rate.
 All coloring and texturing implemented robustly to reflect light dynamically.
