@@ -1,6 +1,8 @@
 # falcon
 
-A customizable animation of the Millenium Falcon taking off and maneuvering through space done in WebGL and JS 
+A customizable animation of the Millenium Falcon taking off and maneuvering through space done in WebGL and JS. Live Demo at: falcon.surge.sh
+
+# Description
 
 Uses WebGL and JavaScript to completely build and animate 3D clip of an object dynamically moving at a real-time frame rate.
 All coloring and texturing implemented robustly to reflect light dynamically.
