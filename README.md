@@ -1,13 +1,15 @@
 # falcon
 
+![alt-text](https://giphy.com/gifs/12yEqhuv1z35xS)
+
 Uses WebGL and JavaScript to completely build and animate 3D clip of an object dynamically moving at a real-time frame rate.
 All coloring and texturing implemented robustly to reflect light dynamically.
 Designed a two-level hierarchical object for the landing gear for the spaceship, which is a set of retracting arms and folding landing pads. 
 Also built and texturized a custom reflective polygon, spaceship, planets, and background used to represent space.
 
-# Live Demo
+## Live Demo
 
-The project is currently viewable and running [here](http://falcon.surge.sh/).
+The project is currently viewable and [running here](http://falcon.surge.sh/). The animation controls are at the link. 
 
 ## Built With
 
