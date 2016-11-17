@@ -1,4 +1,4 @@
-# Millenium Falcon
+# Millennium Falcon
 
 <p align="center">
     <img src="https://rawgit.com/ravikjay/falcon/master/resources/falcon.gif"
